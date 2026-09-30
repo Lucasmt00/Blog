@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "slug": "introducao-ao-nextjs",
+    "titulo": "Introdução ao Next.js",
+    "autor": "Lucas Oliveira",
+    "data": "08/09/2026",
+    "conteudo": "Next.js é um framework React utilizado para criar aplicações web modernas, oferecendo recursos como roteamento, renderização no servidor e otimização."
+  },
+  {
+    "id": 2,
+    "slug": "o-que-e-server-component",
+    "titulo": "O que são Server Components?",
+    "autor": "Lucas Oliveira",
+    "data": "09/09/2026",
+    "conteudo": "Server Components são componentes executados no servidor. No App Router do Next.js, os componentes são Server Components por padrão."
+  },
+  {
+    "id": 3,
+    "slug": "rotas-dinamicas-no-nextjs",
+    "titulo": "Rotas dinâmicas no Next.js",
+    "autor": "Lucas Oliveira",
+    "data": "10/09/2026",
+    "conteudo": "As rotas dinâmicas permitem criar páginas diferentes utilizando parâmetros na URL, como o slug de um artigo."
+  }
+]
